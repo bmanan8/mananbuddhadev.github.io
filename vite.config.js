@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/mananbuddhadev.github.io/',
+  base: '/manan-buddhadev.github.io/',
   build: {
     outDir: 'docs'
   },
@@ -13,4 +13,3 @@ export default defineConfig({
     }
   }
 });
-git 
